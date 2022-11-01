@@ -1,2 +1,2 @@
 # Heart-Rate-Blood-Pressure-Monitor
-Code that interfaces with Arduino Nano with Pressure sensor and blood pressure pump 
+Code that interfaces with Arduino Circuit Playground that was wired to a pressure sensor, which was connected to a blood pressure pump. The code converts analog readings into pressure readings, processes the pressure data that is read in and calculates the systolic and diastolic pressure and heart rate of the user. The program tells the user in real-time whether pressure is being released too quickly or slowly. An extra feature was added to light up the neopixels on the microcontroller to allow the person controlling the pump to know when to stop increasing pressure. 
