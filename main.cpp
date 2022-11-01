@@ -1,10 +1,6 @@
 /*
 
 Project Name: Blood Pressure and Heart Rate Detector 
-Names: Ariel Hsieh (ach573), Rameen Mahmood (rkm352)
-Class: ECE 4144: Introduction to Embedded Systems 
-Professor: Matthew Campisi 
-Due Date: May 16, 2022
 
 */
 
